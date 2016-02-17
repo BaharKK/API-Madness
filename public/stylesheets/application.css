@@ -1,0 +1,38 @@
+ body {
+  background-image: url(images/stardust_@2X.png);
+  background-size: 100%
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 80px;
+  text-align: center;
+  color: #ffff00;
+}
+
+h3 {
+  font-size: 30px;
+  color: #ffff00;
+  text-align: center;
+}
+
+button.btn-primary.btn-lg{
+  margin:auto; 
+  display: block;
+  margin-top: 30px;
+  border-style: outset;
+  width: 400px;
+}
+
+#SlideShowContainer {
+  display: flex;
+  height: 300px;
+ }
+
+.slide-show:first-child {
+  padding-top: 30px;
+  margin: auto;
+  color: #ffffff;
+  text-align: left;
+
+}
